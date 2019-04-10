@@ -18,7 +18,12 @@ Para el dataset de tweets se tiene fecha, cantidad de favoritos y retweets, el t
 
 ## Datasets
 
-### Dataset de Usuaries
+Los datos están en dos tipos de archivos, con los siguientes notebooks los exploramos introductoriamente: [para archivos de usuaries](users.ipynb) y [para archivos de tweets](tweets.ipynb)
+
+Los datos fueron recolectados con diferentes métodos para ambos períodos, y en los 2 casos no se cuenta con la totalidad de los tweets con esos hashtags, sino con una muestra.
+
+
+#### [Dataset de Usuaries](users.ipynb)
 
 |    Columnas   |  Descripción  |
 | ------------- | ------------- |
@@ -35,7 +40,7 @@ Para el dataset de tweets se tiene fecha, cantidad de favoritos y retweets, el t
 | `verified`    | Si la cuenta está verificada o no (por ejemplo para les famoses) | 
 
 
-### Dataset de Tweets
+#### [Dataset de Tweets](tweets.ipynb)
 
 
 |    Columnas   |  Descripción  |
