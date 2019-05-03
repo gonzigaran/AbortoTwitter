@@ -36,4 +36,5 @@ El informe debe estar en un formato que no sea un Jupyter Notebook, por ejemplo 
 - [Irregularidades en los sorteos de causas de corrupción](https://www.lanacion.com.ar/politica/revelan-que-hay-irregularidades-en-los-sorteos-de-causas-de-corrupcion-nid2092357)
 
 **Fecha de entrega primera versión:** 10 días después de finalizada la materia.
+
 **Fecha de entrega versión final:** Una semana luego de la respuesta del mentor.
