@@ -18,6 +18,8 @@ Para el dataset de tweets se tiene fecha, cantidad de favoritos y retweets, el t
 
 ## Datasets
 
+A los datasets hay que descargarlos desde [aqui](https://drive.google.com/drive/folders/1oR3ga2p2M0qfTtC4vY8jeYOJqkSx1-Re?usp=sharing) y ubircarlos en la carpeta `data/`.
+
 Los datos están en dos tipos de archivos, con los siguientes notebooks los exploramos introductoriamente: [para archivos de usuaries](users.ipynb) y [para archivos de tweets](tweets.ipynb)
 
 Los datos fueron recolectados con diferentes métodos para ambos períodos, y en los 2 casos no se cuenta con la totalidad de los tweets con esos hashtags, sino con una muestra.
