@@ -2,7 +2,7 @@
 
 # Laboratorio 2: Análisis Exploratorio y Curación de Datos
 
-> **Análisis de las Posiciones del Aborto en Twitter**
+> **Análisis de las Posiciones del Aborto en Twitter** <br/>
 > *Diplomatura en Ciencias de Datos, Aprendizaje Automático y sus aplicaciones.*
 
 ## Objetivo y alcance
